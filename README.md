@@ -17,7 +17,7 @@
 
  💬 Expertise in Node.js, MongoDB, React.js
 
- 📫 Reach out to me: **avinashchandra043@gmail.com**
+ 📫 Reach out to me: **avinashchandrabarik01@gmail.com**
 
  ✍ You can find my resume [here](https://drive.google.com/file/d/10y7a7Qp0B-w7f3FmawMLkWtJISOLHUmd/view?usp=sharing)
 
